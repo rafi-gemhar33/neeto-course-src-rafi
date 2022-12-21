@@ -1,10 +1,10 @@
 ---
 - title: Ternary Operator
-  slug: ternary-operator-b9396f
+  slug: ternary-operator-b9396f-rafi
   page_type: lesson
 - title: Exercise - Ternary Operator
-  slug: exercise-ternary-operator-b9396f
+  slug: exercise-ternary-operator-b9396f-rafi
   page_type: exercise
 - title: ComprehensiveExercise - Split string by marker
-  slug: comprehensive-exercise-split-string-by-marker
+  slug: comprehensive-exercise-split-string-by-marker-rafi
   page_type: assessment
