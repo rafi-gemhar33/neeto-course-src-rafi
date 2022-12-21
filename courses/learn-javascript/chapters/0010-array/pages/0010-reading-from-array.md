@@ -7,6 +7,9 @@ We can access an element by
 specifying its index
 in square brackets.
 
+We can also write to an index.
+
+
 <codeblock language="javascript" type="lesson">
 <code>
 let names = ["Oliver", "Adam", "Eve"];
