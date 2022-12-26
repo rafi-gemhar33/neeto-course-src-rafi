@@ -1,0 +1,25 @@
+---
+- title: Table Header Row Rafi SRC
+  slug: table-header-row-rafi
+  page_type: lesson
+- title: Exercise - Table Header Row Rafi SRC
+  slug: exercise-table-header-row-rafi
+  page_type: exercise
+- title: nth Child Rafi SRC
+  slug: nth-child-rafi
+  page_type: lesson
+- title: Exercise - nth child Rafi SRC
+  slug: exercise-nth-child-rafi
+  page_type: exercise
+- title: Using querySelectorAll Rafi SRC
+  slug: selecting-dom-elements-using-query-selector-all-rafi
+  page_type: lesson
+- title: Exercise - Using querySelectorAll Rafi SRC
+  slug: exercise-selecting-dom-elements-using-query-selector-all-rafi
+  page_type: exercise
+- title: Exercise - Listening to Browser Events Rafi SRC
+  slug: exercise-listening-to-browser-events-rafi
+  page_type: exercise
+- title: Exercise - `alt` in `img` Tag Rafi SRC
+  slug: exercise-alt-in-img-tag-rafi
+  page_type: exercise

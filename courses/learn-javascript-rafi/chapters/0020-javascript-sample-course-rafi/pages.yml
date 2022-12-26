@@ -1,0 +1,19 @@
+---
+- title: Fix precision of decimal numbers Rafi SRC
+  slug: to-fixed-rafi
+  page_type: lesson
+- title: Exercise - Fix precision of decimal numbers Rafi SRC
+  slug: exercise-to-fixed-rafi
+  page_type: exercise
+- title: ComprehensiveExercise - Access code in inner function Rafi SRC
+  slug: comprehensive-exercise-access-code-in-inne-function-rafi
+  page_type: assessment
+- title: Show message in console Rafi SRC
+  slug: console-rafi
+  page_type: lesson
+- title: Exercise - Show message in console Rafi SRC
+  slug: exercise-console-3-rafi
+  page_type: exercise
+- title: ComprehensiveExercise - Print all Unique Words Rafi SRC
+  slug: comprehensive-exercise-print-all-unique-words-rafi
+  page_type: assessment

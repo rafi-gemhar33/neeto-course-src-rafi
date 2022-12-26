@@ -1,0 +1,9 @@
+---
+- name: Select and filter
+  slug: select-and-filter-rafi
+- name: NULL value
+  slug: null-value-rafi
+- name: SUM and AVG
+  slug: sum-and-average-rafi
+- name: SQL sample course
+  slug: sql-sample-course-rafi

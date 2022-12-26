@@ -1,0 +1,19 @@
+---
+- title: SELECT DISTINCT Rafi SRC
+  slug: select-distinct-rafi
+  page_type: lesson
+- title: Exercise - SELECT distinct Rafi SRC
+  slug: exercise-select-distinct-rafi
+  page_type: exercise
+- title: Exercise - VIEWS - 2 Rafi SRC
+  slug: exercise-views-2-rafi
+  page_type: exercise
+- title: Exercise - CREATE TABLE - Data types Rafi SRC
+  slug: exercise-create-table-data-types-rafi
+  page_type: exercise
+- title: Exercise - Deleting tables Rafi SRC
+  slug: exercise-deleting-tables-rafi
+  page_type: exercise
+- title: Exercise - Renaming tables Rafi SRC
+  slug: exercise-renaming-tables-rafi
+  page_type: exercise

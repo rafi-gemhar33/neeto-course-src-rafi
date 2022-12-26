@@ -1,0 +1,7 @@
+---
+- title: Select all Python students Rafi SRC
+  slug: select-all-python-students-rafi
+  page_type: lesson
+- title: Exercise - Find all students who are enrolled in JavaScript course Rafi SRC
+  slug: exercise-find-all-students-enrolled-in-javascript-course-rafi
+  page_type: exercise
