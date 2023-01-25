@@ -12,3 +12,4 @@ WHERE course = 'Python'
 However out of 18 there are only 3 students whose are enrolled in the _Python_ course.
 
 <!-- test sql changes via webhook -->
+<!-- after path error fix-->
