@@ -10,3 +10,5 @@ WHERE course = 'Python'
 </code>
 </codeblock>If you click on "students" tab you can see that the students table has 18 records.
 However out of 18 there are only 3 students whose are enrolled in the _Python_ course.
+
+<!-- test sql changes via webhook -->
